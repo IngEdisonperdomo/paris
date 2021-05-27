@@ -1,7 +1,7 @@
 # París
 Es un proyecto hecho en React Native para crear citas médica
 
-![test1](https://repository-images.githubusercontent.com/369685713/9600d580-bd81-11eb-997b-87ebf2edc348)
+![test1](https://repository-images.githubusercontent.com/371205301/f5d0ac80-be65-11eb-8a64-007d6eee87c0)
 
 # BlankProject
 
